@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arjun Nehra.
+- 👋 Hi, I’m Arjun Nehra.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Machine Learning.
